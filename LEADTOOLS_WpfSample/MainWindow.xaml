@@ -11,7 +11,7 @@
 
         <Button x:Name="connectOneDriveButton" Content="OneDriveに接続する" Click="connectOneDriveButton_Click" Margin="20,10,0,0" Width="153" HorizontalAlignment="Left"/>
         <ListBox x:Name="imageListBox" Height="100"  Margin="20,10,0,0" Width="400" HorizontalAlignment="Left"/>
-        <Button x:Name="leadtoolsImage" Content="OneDriveに接続する" Click="leadtoolsImageButton_Click" Margin="20,10,0,0" Width="153" HorizontalAlignment="Left"/>
+        <Button x:Name="leadtoolsImage" Content="画像を取得する" Click="leadtoolsImageButton_Click" Margin="20,10,0,0" Width="153" HorizontalAlignment="Left"/>
         <Image x:Name="image" Height="100" Margin="20,10,0,0" Width="153" HorizontalAlignment="Left"/>
         <Button x:Name="addEffect" Content="画像を変換する" Click="addEffectButton_Click" Margin="20,10,0,0" Width="153" HorizontalAlignment="Left"/>
         <Image x:Name="changedImage" Height="100" Margin="20,10,0,0" Width="153" HorizontalAlignment="Left"/>
